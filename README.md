@@ -1,72 +1,21 @@
-# Scala 3 - Apprentissage Complet 🚀
+# Apache Spark with Scala - Hands On with Big Data
 
-Ce repository contient tous les scripts, exercices et projets que j'ai réalisés lors du cours **Scala 3** sur Udemy. Un parcours complet de 20h+ pour maîtriser ce langage de programmation moderne et puissant.
+Ce dépôt contient l'ensemble des scripts et exercices réalisés lors du cours Udemy **"Apache Spark with Scala - Hands On with Big Data!"**. Il s'agit d'un cours pratique de 8h58 couvrant les concepts fondamentaux et avancés d'Apache Spark avec le langage Scala.
 
-## 📚 À propos du Cours
+## 📚 Contenu du cours
 
-**Durée totale :** 20h 13min  
-**Sessions :** 333 sessions réparties en 30 modules  
-**Niveau :** De débutant complet à développeur expérimenté
+### Durée totale : 8h58 • 10 sections • 69 sessions
 
-Scala 3 est un langage excellente pour construire des applications et systèmes distribués à forte intensité de données. Il est utilisé par des entreprises de renom comme **Uber**, **LinkedIn** et **Netflix** pour gérer leurs fonctionnalités backend.
-
-## 🎯 Compétences Acquises
-
-### Fondamentaux du Langage
-- **Variables et Strings** - Manipulation des données de base
-- **Types de variables et nombres** - Système de types robuste de Scala
-- **Opérateurs et Booléens** - Logique et calculs
-- **Saisie utilisateur** - Interaction avec l'utilisateur
-
-### Gestion des Erreurs
-- **Gestion des exceptions** - Traitement robuste des erreurs
-- **Patterns de gestion d'erreur** - Approches idiomatiques Scala
-
-### Collections et Structures de Données
-- **Collections** - Vue d'ensemble des structures Scala
-- **Lists et Arrays** - Structures séquentielles
-- **Set et HashSet** - Collections uniques
-- **Map et HashMap** - Structures clé-valeur
-- **Tuples** - Groupement de données hétérogènes
-
-### Contrôle de Flux
-- **Conditionnels If** - Branchements simples
-- **Match conditionals** - Pattern matching puissant
-- **Expressions** - Tout est expression en Scala
-- **Boucles For** - Itération avancée
-- **Boucles While** - Contrôle de flux traditionnel
-
-### Programmation Fonctionnelle
-- **Fonctions** 
-- **Lambdas et Fonctions d'Ordre Supérieur** - Programmation fonctionnelle avancée
-- **Packages** - Organisation du code
-
-### Programmation Orientée Objet
-- **Classes et objets** - Fondements de l'OOP
-- **Les 4 principes de l'OOP** - Encapsulation, héritage, polymorphisme, abstraction
-- **Traits** - Mixins et composition
-- **Types de classes avancés** - Classes abstraites, case classes, etc.
-
-## 💡 Points Clés Appris
-
-- **Immutabilité par défaut** - Approche fonctionnelle de Scala
-- **Pattern Matching** - Puissant système de correspondance de motifs
-- **Type Inference** - Le compilateur déduit les types automatiquement
-- **Interopérabilité Java** - Utilisation seamless des librairies Java
-- **Concision du code** - Expressivité maximale avec un minimum de code
-
-
-## 📈 Progression
-
-✅ **Complété** - Tous les modules du cours (30/30)  
-✅ **Exercices** - Tous les exercices pratiques réalisés  
-✅ **Projets** - 2 projets complets développés  
-✅ **Concepts avancés** - Traits, higher-order functions, pattern matching
-
-## 🎓 Certificat
-
-Cours complété avec succès sur la plateforme Udemy. Ce repository témoigne de ma maîtrise des concepts fondamentaux et avancés de Scala 3.
+- **Getting Started** (33 min) - Configuration de l'environnement et premiers pas
+- **Scala Crash Course** (1h07) - Introduction au langage Scala
+- **Using Resilient Distributed Datasets (RDDs)** (1h27) - Manipulation des RDDs
+- **SparkSQL, DataFrames, and DataSets** (1h04) - Travail avec les structures de données Spark
+- **Advanced Examples of Spark Programs** (1h36) - Exemples complexes et cas d'usage réels
+- **Running Spark on a Cluster** (1h18) - Déploiement sur cluster et cloud computing
+- **Machine Learning with Spark ML** (48 min) - Introduction au machine learning avec Spark
+- **Intro to Spark Streaming** (42 min) - Traitement de données en temps réel
+- **Intro to GraphX** (18 min) - Analyse de graphes avec GraphX
 
 ---
 
-*Ce repository représente mon parcours d'apprentissage complet de Scala 3, de débutant à développeur capable de créer des applications robustes et maintenables.*
+*Ce dépôt est à des fins éducatives basé sur le cours Udemy d'Apache Spark avec Scala.*
